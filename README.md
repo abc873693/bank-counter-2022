@@ -2,6 +2,8 @@
 
 使用 Flutter 開發模擬銀行抽號碼牌 App
 
+展示網頁: [網址](https://abc873693.github.io/bank-counter-2022/#/)
+
 ## 建置環境
 
 - Flutter 穩定版本 `3.3.4`
