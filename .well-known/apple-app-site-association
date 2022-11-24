@@ -1,0 +1,29 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["6H2MLJM954.com.influenxio.influencer", "6H2MLJM954.com.influenxio.influencer.dev"],
+             "components": [
+               {
+                  "/": "/$(lang)-$(region)/influencer/new-campaigns/*"
+               },
+               {
+                  "/": "/$(lang)-$(region)/influencer/my-cases/*"
+               },
+               {
+                  "/": "/$(lang)-$(region)/influencer/notifications"
+               },
+               {
+                  "/": "/$(lang)-$(region)/influencer/message/*"
+               },
+               {
+                  "/": "/$(lang)-$(region)/influencer/profile/*"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": ["6H2MLJM954.com.influenxio.influencer", "6H2MLJM954.com.influenxio.influencer.dev"]
+   }
+}
